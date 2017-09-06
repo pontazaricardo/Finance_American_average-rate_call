@@ -19,3 +19,5 @@ In MatLab, just run the given file.
 Suppose *S* = 100, *X* = 70, *t* = 2 (years), *s* = 20%, *r* = 5%, *n* = 40, and *k* = 5.
 1. The price is about 36.308.
 2. The delta is about 0.9515. 
+
+![example](/images/pic07.png)
