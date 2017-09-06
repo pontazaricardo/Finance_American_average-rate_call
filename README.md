@@ -2,6 +2,8 @@
 
 This program calculates the price of American-style arithmetic average-rate calls (ARO) based on the CRR binomial tree.
 
+![demo](/images/demo.gif)
+
 ## Notes
 1. The payoff function is max(average - *X*, 0). 
 2. If the holder exercises early, then average means the average up to that node.
