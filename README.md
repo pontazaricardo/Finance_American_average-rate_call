@@ -2,7 +2,7 @@
 
 This program calculates the price of American-style arithmetic average-rate calls (ARO) based on the CRR binomial tree.
 
-![demo](/images/demo.gif)
+![demo](/images/demo02.gif)
 
 ## Notes
 1. The payoff function is max(average - *X*, 0). 
@@ -20,4 +20,4 @@ Suppose *S* = 100, *X* = 70, *t* = 2 (years), *s* = 20%, *r* = 5%, *n* = 40, and
 1. The price is about 36.308.
 2. The delta is about 0.9515. 
 
-![example](/images/pic07.png)
+![example](/images/pic14.png)
